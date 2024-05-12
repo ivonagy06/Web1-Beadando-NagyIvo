@@ -1,0 +1,1 @@
+a 2. Fazisban létrehoztuk az elérhetőség oldalt, a megjelenését és hozzá adtuk a térképet.

@@ -1,0 +1,1 @@
+A 4. f+fázisban a bejelentkezés felületét hoztuk létre, illetve az összes oldal megkapta a a vissza a Főoldalra gombot.

@@ -1,0 +1,1 @@
+Létrehoztuk a regisztrációs felületet és annak a megjelenését.

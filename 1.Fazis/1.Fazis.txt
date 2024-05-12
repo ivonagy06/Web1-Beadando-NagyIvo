@@ -1,0 +1,1 @@
+Az első fázisban létrehoztuk a Főoldal egyszerű megjelenését.
